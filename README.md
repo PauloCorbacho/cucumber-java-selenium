@@ -26,7 +26,7 @@ This project implements automated tests for an e-commerce website using:
 ## How to Run Tests
 
 1. Clone the repository:
-git clone [(https://github.com/PauloCorbacho/cucumber-java-selenium-outsera/)]
+git clone [(https://github.com/PauloCorbacho/cucumber-java-selenium)]
 cd project-folder
 
 2. Execute tests:
